@@ -3,22 +3,25 @@ package com.techoral.basic;
 import java.util.Arrays;
 import java.util.List;
 import java.util.Optional;
+
 /**
  * 
- * Author: Techoral.com 
- * Description: To display the maximum salary of employees earning more than 30,000 using Java 8 Streams
+ * Author: Techoral.com Description: To display the name of the employee with
+ * max salary more than 30,000 using Java 8 Streams
+ * 
  */
-public class EmpMaxSalary {
+public class EmpNameWithMaxSalary {
 
 	public static void main(String[] agrs) {
-		
-		List<Employee> empList = Arrays.asList(new EmpMaxSalary.Employee(1, "Avinash", 40000.1),
+
+		List<Employee> empList = Arrays.asList(new Employee(1, "Avinash", 40000.1),
 				new Employee(2, "techoral", 20000.1), new Employee(3, "com", 10000.1), new Employee(4, "test", 9000.1));
 
-		Optional<Double> maxSalary = empList.stream().filter(emp -> emp.getSalary() > 30000).map(emp -> emp.getSalary())
-				.max((a, b) -> Double.compare(a, b));
+		Optional<Employee> maxSalaryEmp = empList.stream().filter(emp -> emp.getSalary() > 30000)
+				.max((a, b) -> Double.compare(a.getSalary(), b.getSalary()));
 
-		maxSalary.ifPresent(salary -> System.out.println("Max Salary > 30000 is: " + salary));
+		maxSalaryEmp.ifPresent(empsalary -> System.out.println("Employee name with Max Salary > 30000 is: "
+				+ empsalary.getUserName() + " : " + empsalary.getSalary()));
 
 	}
 
