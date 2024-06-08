@@ -4,5 +4,5 @@
 /**
  * 
  */
-module JavaStreams {
+module JavaList {
 }
