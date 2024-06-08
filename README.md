@@ -7,7 +7,7 @@ https://techoral.com
 
 1. Java Streams Code Examples
 
-Java/code/JavaStreams
+[Java/code/JavaStreams](https://github.com/deonash/techoral-git/tree/d6f5419b5ed3e453415f290b6e071bd3b130a155/Java/code/JavaStreams)
 
 2. Java Collection Framework
 
