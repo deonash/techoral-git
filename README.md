@@ -3,12 +3,20 @@
 #visit for more details
 https://techoral.com
 
-
 ###############################
 
-JVM OutOfMemoryError :)
+1. Java Streams Code Examples
 
-###############################
+Java/code/JavaStreams
+
+2. Java Collection Framework
+
+Java/code/JavaCollections
+
+3. JVM OutOfMemoryError :)
+
+Java/code/jvm/JVM-Memory-Mgmt
+
 Output of CreateObjectsInfiniteV1.java
 
 >>>
