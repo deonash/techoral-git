@@ -6,7 +6,7 @@ https://techoral.com
 
 ###############################
 
-JVM OutOfMemoryError
+JVM OutOfMemoryError :)
 
 ###############################
 Output of CreateObjectsInfiniteV1.java
