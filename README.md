@@ -15,7 +15,7 @@ https://techoral.com
 
 3. JVM OutOfMemoryError :)
 
-Java/code/jvm/JVM-Memory-Mgmt
+[Java/code/jvm/JVM-Memory-Mgmt](https://github.com/deonash/techoral-git/tree/34b3ae3c5011b6835a2695d422ab47a3a7ce446b/Java/code/jvm/JVM-Memory-Mgmt)
 
 Output of CreateObjectsInfiniteV1.java
 
