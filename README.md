@@ -11,7 +11,7 @@ Java/code/JavaStreams
 
 2. Java Collection Framework
 
-Java/code/JavaCollections
+[Java/code/JavaCollections](https://github.com/deonash/techoral-git/tree/83eabff02ad3a6b5bb1c0211e84276c8962019d4/Java/code/JavaCollections)
 
 3. JVM OutOfMemoryError :)
 
