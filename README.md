@@ -1,14 +1,22 @@
-# Welcomne to  techoral git repository
+# Welcome to  techoral git repository
 
 #visit for more details
 https://techoral.com
 
-
 ###############################
 
-JVM OutOfMemoryError :)
+1. Java Streams Code Examples
 
-###############################
+[Java/code/JavaStreams](https://github.com/deonash/techoral-git/tree/d6f5419b5ed3e453415f290b6e071bd3b130a155/Java/code/JavaStreams)
+
+2. Java Collection Framework
+
+[Java/code/JavaCollections](https://github.com/deonash/techoral-git/tree/83eabff02ad3a6b5bb1c0211e84276c8962019d4/Java/code/JavaCollections)
+
+3. JVM OutOfMemoryError :)
+
+[Java/code/jvm/JVM-Memory-Mgmt](https://github.com/deonash/techoral-git/tree/34b3ae3c5011b6835a2695d422ab47a3a7ce446b/Java/code/jvm/JVM-Memory-Mgmt)
+
 Output of CreateObjectsInfiniteV1.java
 
 >>>
