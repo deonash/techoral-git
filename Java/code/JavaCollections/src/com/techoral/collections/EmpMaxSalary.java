@@ -1,4 +1,4 @@
-package com.techoral.basic;
+package com.techoral.collections;
 
 import java.util.Arrays;
 import java.util.List;
@@ -7,12 +7,11 @@ import java.util.Optional;
 /**
  * Author: www.techoral.com
  * 
- * Description : To create a tricky problem statement for finding the employee
- * with the maximum salary greater than 30,000 using Java streams
+ * Description :  finding the employee with the maximum salary greater than 30,000 using Java streams
  * 
  */
 
-public class MaxSalaryLaxicograph {
+public class EmpMaxSalary {
 
 	static class Employee {
 		String name;
