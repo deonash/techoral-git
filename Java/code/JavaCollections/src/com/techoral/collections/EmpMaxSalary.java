@@ -8,7 +8,7 @@ import java.util.Optional;
  * Author: www.techoral.com
  * 
  * Description :  finding the employee with the maximum salary greater than 30,000 using Java streams
- * 
+ *  
  */
 
 public class EmpMaxSalary {
