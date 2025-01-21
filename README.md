@@ -1,4 +1,4 @@
-# Techoral - Professional Technical Learning Resources
+# Techoral - Master Your Tech Skills: The Ultimate Developer's Guide and Interview Preparation
 
 <div align="center">
 
