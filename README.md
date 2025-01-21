@@ -7,6 +7,7 @@
 [![Testing](https://img.shields.io/badge/Testing-43B02A?style=for-the-badge&logo=selenium&logoColor=white)](#test-automation)
 [![DevOps](https://img.shields.io/badge/DevOps-326CE5?style=for-the-badge&logo=aws&logoColor=white)](#devops--cloud)
 [![Tools](https://img.shields.io/badge/Tools-4B32C3?style=for-the-badge&logo=eclipse&logoColor=white)](#development-tools)
+[![APISIX](https://img.shields.io/badge/APISIX-E84142?style=for-the-badge&logo=apache&logoColor=white)](#apisix)
 
 [Techoral.com](https://techoral.com) | [Blog](https://techoral.com/blog.html) | [Training](https://techoral.com/pages/training/learn-devops-in-10-days.html)
 
@@ -131,6 +132,78 @@ Welcome to the official Techoral repository - your comprehensive resource for pr
 - [JBoss AS vs WildFly](https://techoral.com/pages/jbossas-vs-wildfly.html)
 - [WildFly Configuration Guide](https://techoral.com/pages/wildfly-standalone-configuration.html)
 - [JBoss DataSource Setup](https://techoral.com/pages/jboss-datasource.html)
+</details>
+
+---
+
+<a name="apisix"></a>
+## ![APISIX](https://img.shields.io/badge/APISIX-E84142?style=flat-square&logo=apache&logoColor=white) Apache APISIX
+
+<details open>
+<summary><b>APISIX Installation & Setup</b></summary>
+
+- [APISIX Installation Guide](https://techoral.com/apisix/installation-guide.html)
+- [APISIX Docker Setup](https://techoral.com/apisix/docker-setup.html)
+- [APISIX with Kubernetes](https://techoral.com/apisix/kubernetes-deployment.html)
+</details>
+
+<details open>
+<summary><b>APISIX Core Concepts</b></summary>
+
+- [Understanding APISIX Routes](https://techoral.com/apisix/routes-guide.html)
+- [APISIX Upstream Management](https://techoral.com/apisix/upstream-management.html)
+- [APISIX Service Discovery](https://techoral.com/apisix/service-discovery.html)
+- [APISIX Load Balancing](https://techoral.com/apisix/load-balancing.html)
+</details>
+
+<details open>
+<summary><b>APISIX Security</b></summary>
+
+- [Authentication in APISIX](https://techoral.com/apisix/authentication.html)
+- [JWT Authentication Setup](https://techoral.com/apisix/jwt-auth.html)
+- [Key Authentication](https://techoral.com/apisix/key-auth.html)
+- [OAuth2 with APISIX](https://techoral.com/apisix/oauth2-integration.html)
+</details>
+
+<details open>
+<summary><b>APISIX Plugins</b></summary>
+
+- [APISIX Plugin Development Guide](https://techoral.com/apisix/plugin-development.html)
+- [Rate Limiting Plugin](https://techoral.com/apisix/rate-limiting.html)
+- [Proxy Rewrite Plugin](https://techoral.com/apisix/proxy-rewrite.html)
+- [CORS Plugin Configuration](https://techoral.com/apisix/cors-plugin.html)
+</details>
+
+<details open>
+<summary><b>APISIX Monitoring</b></summary>
+
+- [APISIX Prometheus Integration](https://techoral.com/apisix/prometheus-metrics.html)
+- [Logging and Monitoring](https://techoral.com/apisix/logging-monitoring.html)
+- [Error Tracking](https://techoral.com/apisix/error-tracking.html)
+</details>
+
+<details open>
+<summary><b>APISIX Troubleshooting</b></summary>
+
+- [Common APISIX Issues](https://techoral.com/apisix/common-issues.html)
+- [Configuration Debugging](https://techoral.com/apisix/config-debugging.html)
+- [Performance Optimization](https://techoral.com/apisix/performance-tuning.html)
+</details>
+
+<details open>
+<summary><b>APISIX Best Practices</b></summary>
+
+- [APISIX Production Deployment](https://techoral.com/apisix/production-deployment.html)
+- [High Availability Setup](https://techoral.com/apisix/high-availability.html)
+- [API Gateway Patterns](https://techoral.com/apisix/gateway-patterns.html)
+</details>
+
+<details open>
+<summary><b>APISIX Integrations</b></summary>
+
+- [APISIX with Spring Boot](https://techoral.com/apisix/spring-boot-integration.html)
+- [APISIX with Grafana](https://techoral.com/apisix/grafana-dashboard.html)
+- [APISIX with Keycloak](https://techoral.com/apisix/keycloak-integration.html)
 </details>
 
 ---
