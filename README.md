@@ -58,6 +58,37 @@ Welcome to the official Techoral repository - your comprehensive resource for pr
 - [OpenJDK 10-12 Features](https://techoral.com/blog/java/openjdk-12-features.html)
 </details>
 
+<details>
+<summary><b>Jave Interviews</b><summary>
+
+<div class="col-lg-6">
+    <ul class="list-unstyled">
+        <li>👉 [Common Java Interview Questions](java-interview-questions.html)</li>
+        <li>👉 [Tips for Java Interviews](java-interview-tips.html)</li>
+        <li>👉 [Java Coding Challenges](java-interview-coding.html)</li>
+        <li>👉 [Advanced Java Topics](java-interview-advanced.html)</li>
+        <li>👉 [Design Patterns in Java](java-interview-design-patterns.html)</li>
+        <li>👉 [Multithreading and Concurrency](java-interview-multithreading.html)</li>
+        <li>👉 [Spring Framework Interview Questions](java-interview-spring.html)</li>
+        <li>👉 [Java Collections Framework](java-interview-collections.html)</li>
+        <li>👉 [Exception Handling in Java](java-interview-exception-handling.html)</li>
+    </ul>
+</div>
+<div class="col-lg-6">
+    <ul class="list-unstyled">
+        <li>👉 [Java Streams and Lambda Expressions](java-interview-streams.html)</li>
+        <li>👉 [Object-Oriented Programming Concepts](java-interview-oop.html)</li>
+        <li>👉 [Java 8 Features](java-interview-java-8-features.html)</li>
+        <li>👉 [Java 11 Features](java-interview-java-11-features.html)</li>
+        <li>👉 [Garbage Collection in Java](java-interview-garbage-collection.html)</li>
+        <li>👉 [Java Annotations](java-interview-annotations.html)</li>
+        <li>👉 [Reflection in Java](java-interview-reflection.html)</li>
+        <li>👉 [Java Database Connectivity (JDBC)](java-interview-jdbc.html)</li>
+        <li>👉 [Serialization and Deserialization](java-interview-serialization.html)</li>
+    </ul>
+</div>
+</details>
+
 ---
 
 <a name="spring"></a>
