@@ -249,10 +249,95 @@ We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.
 - [Terms of Use](https://techoral.com/terms-of-use.html)
 - Licensed under MIT
 
+
+
+## Article Links
+
+### General Links
+- [Techoral Home](https://techoral.com/)
+- [Blog](https://techoral.com/blog.html)
+- [Privacy Policy](https://techoral.com/privacy-policy.html)
+- [Terms of Use](https://techoral.com/terms-of-use.html)
+- [Sitemap](https://techoral.com/sitemap.html)
+
+### Training
+- [Learn DevOps in 10 Days](https://techoral.com/pages/training/learn-devops-in-10-days.html)
+- [Full Stack Web Development in 10 Days](https://techoral.com/pages/training/learn-fullstack-web-development-in-10-days.html)
+- [Learn AWS in 10 Days](https://techoral.com/pages/training/learn-aws-amazon-web-service-in-10-days.html)
+- [Learn Big Data in 10 Days](https://techoral.com/pages/training/learn-bigdata-in-10-days.html)
+
+### Java
+- [Java](https://techoral.com/java.html)
+- [OpenJDK Developer's Guide](https://techoral.com/blog/openjdk-developers-guide.html)
+- [Java Collections](https://techoral.com/java/java-collections.html)
+- [Java Multithreading](https://techoral.com/java/java-multithreading.html)
+- [Java Streams](https://techoral.com/java/java-streams.html)
+- [Java Annotations](https://techoral.com/java/java-annotations.html)
+- [Java JDBC](https://techoral.com/java/java-jdbc.html)
+- [Java Error Code 1603](https://techoral.com/java/java-error-code-1603.html)
+- [Java Installation Error Code 80](https://techoral.com/java/java-installation-error-code-80.html)
+- [Java Update on Mac](https://techoral.com/java/java-update-on-mac.html)
+- [Java Won't Install on Windows 10](https://techoral.com/java/java-wont-install-windows-10.html)
+- [Java Interview Questions](https://techoral.com/java/java-interview-questions.html)
+- [Java Interview Tips](https://techoral.com/java/java-interview-tips.html)
+- [Java Interview Multithreading](https://techoral.com/java/java-interview-multithreading.html)
+- [Java Interview Spring](https://techoral.com/java/java-interview-spring.html)
+- [Java Interview Streams](https://techoral.com/java/java-interview-streams.html)
+- [Java Interview OOP](https://techoral.com/java/java-interview-oop.html)
+- [Java Interview Java 8 Features](https://techoral.com/java/java-interview-java-8-features.html)
+- [Java Interview Java 11 Features](https://techoral.com/java/java-interview-java-11-features.html)
+- [Java Interview Reflection](https://techoral.com/java/java-interview-reflection.html)
+- [Java Interview Serialization](https://techoral.com/java/java-interview-serialization.html)
+- [Java Interview Design Patterns](https://techoral.com/java/java-interview-design-patterns.html)
+- [Java Interview Coding](https://techoral.com/java/java-interview-coding.html)
+- [Java Interview Advanced](https://techoral.com/java/java-interview-advanced.html)
+- [Java Interview Collections](https://techoral.com/java/java-interview-collections.html)
+- [Java Interview Garbage Collection](https://techoral.com/java/java-interview-garbage-collection.html)
+
+### Spring
+- [Spring Boot](https://techoral.com/spring-boot.html)
+- [Spring Boot REST](https://techoral.com/spring/spring-boot-rest.html)
+- [Spring Boot JDBC](https://techoral.com/spring/spring-boot-jdbc.html)
+- [Spring Boot OAuth](https://techoral.com/spring/springboot-oauth.html)
+- [Unable to Start Web Server](https://techoral.com/spring/unable-to-start-web-server.html)
+- [JDBC Connection Exception](https://techoral.com/spring/jdbc-connection-exception.html)
+
+### Tools
+- [Test Automation](https://techoral.com/test-automation.html)
+- [Eclipse Installation Error Code 13](https://techoral.com/tools/ide/eclipse-installation-error-code-13.html)
+- [IntelliJ IDEA Installation](https://techoral.com/tools/ide/IntellijIdea-installation-windows.html)
+- [Android Studio Installation](https://techoral.com/blog/articles/tools/android-studio-installation.html)
+- [Git Installation](https://techoral.com/blog/articles/tools/git-installation.html)
+- [VSCode Installation](https://techoral.com/blog/articles/tools/vscode-installation.html)
+- [Postman Installation](https://techoral.com/blog/articles/tools/postman-installation.html)
+- [NetBeans Installation](https://techoral.com/blog/articles/tools/netbeans-installation.html)
+- [PyCharm Installation](https://techoral.com/blog/articles/tools/pycharm-installation.html)
+- [STS Installation](https://techoral.com/blog/articles/tools/sts-installation.html)
+- [Cursor Installation](https://techoral.com/blog/articles/tools/cursor-installation.html)
+
+### Additional Resources
+- [Java Decompiler Procyon](https://techoral.com/blog/java/java-decompiler-procyon.html)
+- [Java Collections Part 1](https://techoral.com/java/java-collections-part1.html)
+- [Java Collections Part 2](https://techoral.com/java/java-collections-part2.html)
+- [Java Interview Home](https://techoral.com/java/java-interview-home.html)
+- [Java Interview Exception Handling](https://techoral.com/java/java-interview-exception-handling.html)
+- [Java Interview Coding](https://techoral.com/java/java-interview-coding.html)
+- [Java Interview Advanced](https://techoral.com/java/java-interview-advanced.html)
+- [Java Interview Garbage Collection](https://techoral.com/java/java-interview-garbage-collection.html)
+- [Java Interview Design Patterns](https://techoral.com/java/java-interview-design-patterns.html)
+- [Java Interview Serialization](https://techoral.com/java/java-interview-serialization.html)
+- [Java Interview Java 8 Features](https://techoral.com/java/java-interview-java-8-features.html)
+- [Java Interview Java 11 Features](https://techoral.com/java/java-interview-java-11-features.html)
+- [Java Interview Reflection](https://techoral.com/java/java-interview-reflection.html)
+- [Java Interview Collections](https://techoral.com/java/java-interview-collections.html)
+- [Java Interview Multithreading](https://techoral.com/java/java-interview-multithreading.html)
+- [Java Interview Spring](https://techoral.com/java/java-interview-spring.html)
+- [Java Interview Streams](https://techoral.com/java/java-interview-streams.html)
+- [Java Interview OOP](https://techoral.com/java/java-interview-oop.html)
+
 <div align="center">
 
 ---
 [Techoral.com](https://techoral.com) | © 2024 Techoral. All rights reserved.
 
 </div>
-
