@@ -1,3 +1,4 @@
+package com.techoral.oauth.controller;
 
 import lombock.extern.slf4j.Slf4j;
 import org.springframework.web.bind.annotation.ControllerAdvice;
