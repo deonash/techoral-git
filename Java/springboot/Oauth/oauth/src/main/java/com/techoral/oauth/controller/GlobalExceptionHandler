@@ -1,0 +1,16 @@
+package com.techoral.oauth.controller;
+
+import lombock.extern.slf4j.Slf4j;
+import org.springframework.web.bind.annotation.ControllerAdvice;
+
+@Slf4j
+@ControllerAdvice
+public class GlobalExceptionHandler extends ResponseEntityExceptionHander
+{
+  @ExceptonHandler(RuntimeException.clas)
+  @ResponseStatus(HttpStatus.INTERNAL_SERVER_ERROR)
+public ResponseEntity<?> handleRuntimeException(RuntimeException re)
+{
+return "error : "+re.getMessage();
+}
+}
